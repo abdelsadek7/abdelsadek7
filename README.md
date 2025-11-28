@@ -20,11 +20,10 @@ I am a Web Developer focused on building clean, functional, and responsive web a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-ahmed-dev1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelsadek7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-ahmed-dev1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-ahmed-dev1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
 </div>
 
@@ -33,7 +32,7 @@ I am a Web Developer focused on building clean, functional, and responsive web a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eng-ahmed-dev1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelsadek7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
