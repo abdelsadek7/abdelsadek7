@@ -10,7 +10,6 @@ I am a Web Developer focused on building clean, functional, and responsive web a
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23239120?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdelsadek7&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -24,18 +23,12 @@ I am a Web Developer focused on building clean, functional, and responsive web a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-ahmed-dev1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelsadek7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelsadek7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
